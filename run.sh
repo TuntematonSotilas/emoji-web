@@ -1,0 +1,2 @@
+emojicodec ./main.emojic
+./main 

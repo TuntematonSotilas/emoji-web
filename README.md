@@ -5,12 +5,8 @@ A web app created with Emojicode
 
 * [Install Emojicode](https://www.emojicode.org/docs/guides/install.html)
 
-## Build
+## Build & Run 
 
-    emojicodec main.emojic
-
-## Run 
-
-    ./main
+    ./run.sh
 
 Test here : http://localhost:8888
