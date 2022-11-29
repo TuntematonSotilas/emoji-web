@@ -3,7 +3,8 @@
 
 🏁 🍇
 
-  🍺🆕🏄 8888❗️ ➡️ SERVER  💭 set listening port number
+  8888 ➡️ PORT
+  🍺🆕🏄 PORT❗️ ➡️ SERVER  💭 set listening port number
   🔤./html🔤 ➡️ WEB_ROOT  💭 set the web root location
 
   
@@ -182,7 +183,7 @@
       Main execution block
   🔚💭
 
-  😀🔤Server started🔤❗️
+  😀🔤Server started at http://localhost:🧲PORT🧲 🔤❗️
 
   🆕🍨🐚🧵🍆❗️ ➡️ 🖍🆕threads
   
