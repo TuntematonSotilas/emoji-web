@@ -1,12 +1,15 @@
 # emoji-web
-A web app created with Emojicode
 
-## Install
+>A web application written with Emojicode
 
-* [Install Emojicode](https://www.emojicode.org/docs/guides/install.html)
+## Install / check required tools
+
+Make sure you have basic tools installed:
+
+- A C++ compiler : `sudo dnf install gcc-c++`
+- libncurses5 : `sudo dnf install ncurses-devel`
+- [Emojicode](https://www.emojicode.org/docs/guides/install.html)
 
 ## Build & Run 
 
     ./run.sh
-
-Test here : http://localhost:8888
