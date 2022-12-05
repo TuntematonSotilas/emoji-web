@@ -3,18 +3,19 @@
 📜 🔤tools.emojic🔤
 
 🏁 🍇
-  
-  💭 Instanciate the tool class
-  🆕🛠️ ❗️ ➡️ tools
 
-  💭 Call method
-  😶‍🌫️ tools❗️ ➡️ error_404_page
-  😨 tools❗️ ➡️ error_403_page
-  😣 tools❗️ ➡️ error_400_page
-
+  💭 Vars
   8888 ➡️ PORT
   🍺🆕🏄 PORT❗️ ➡️ SERVER  💭 set listening port number
   🔤./html🔤 ➡️ WEB_ROOT  💭 set the web root location
+      
+  💭 Instanciate the tool class
+  🆕🛠️ ❗️ ➡️ tools
+
+  💭 Get error pages from the tools class
+  😶‍🌫️ tools❗️ ➡️ error_404_page
+  😨 tools❗️ ➡️ error_403_page
+  😣 tools❗️ ➡️ error_400_page
   
   💭🔜 
       Function to craft the response and the body
@@ -26,7 +27,7 @@
     💭 split the request header with the ❌r❌n (\r\n) delimiter
     🔫 request_header 🔤❌r❌n🔤 ❗️ ➡️ request_header_list
 
-    💭💭💭 testing 💭💭💭
+    💭 Tests
     🔂 name request_header_list 🍇
        💭😀 name❗️
     🍉
@@ -37,7 +38,7 @@
     💭 get individual elements form the status line
     🔫 status_line 🔤 🔤 ❗️ ➡️ status_line_list
 
-    💭💭💭 testing 💭💭💭
+    💭 Tests
     🔂 name status_line_list 🍇
        💭😀 name❗️
     🍉    
