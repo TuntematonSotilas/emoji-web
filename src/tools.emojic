@@ -1,9 +1,45 @@
 💭 This is the tool class
 🐇 🛠️ 🍇
-  💭 Constructor
+
+  💭 Empty Constructor
   🆕 🍇🍉
-  💭 Method 
-  ❗️ 🍏 🍇
-    😀 🔤Hello from tools!🔤❗️
+
+  💭 Methods
+
+  💭 404
+  ❗️ 😶‍🌫️ ➡️ 🔡 🍇
+    🔤<html>
+        <head><title>404 Not Found</title></head>
+        <body>
+        <center><h1>404 Not Found</h1></center>
+        <hr><center>emoji-web</center>
+        </body>
+        </html>🔤 ➡️ error_page
+    ↩️ 🔤HTTP/1.1 404 Not Found❌r❌nContent-Type: text/html❌r❌n❌r❌n🧲error_page🧲🔤
   🍉
+
+  💭 403
+  ❗️😨 ➡️ 🔡 🍇
+     🔤<html>
+        <head><title>403 Forbidden</title></head>
+        <body>
+        <center><h1>403 Forbidden</h1></center>
+        <hr><center>emoji-web</center>
+        </body>
+        </html>🔤 ➡️ error_page
+      ↩️ 🔤HTTP/1.1 403 Forbidden❌r❌nContent-Type: text/html❌r❌n❌r❌n🧲error_page🧲🔤
+  🍉
+
+  💭 400
+  ❗️😣 ➡️ 🔡 🍇
+     🔤<html>
+        <head><title>400 Bad Request</title></head>
+        <body>
+        <center><h1>400 Bad Request</h1></center>
+        <hr><center>emoji-web</center>
+        </body>
+        </html>🔤 ➡️ error_page
+    ↩️ 🔤HTTP/1.1 400 Bad Request❌r❌nContent-Type: text/html❌r❌n❌r❌n🧲error_page🧲🔤
+  🍉
+
 🍉

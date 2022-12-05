@@ -1,2 +1,1 @@
-emojicodec ./main.emojic
-./main 
+emojicodec ./src/main.emojic && ./src/main 
