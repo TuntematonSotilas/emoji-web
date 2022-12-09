@@ -13,7 +13,3 @@ Make sure you have basic tools installed:
 ## Build & Run 
 
     ./run.sh
-
-## Docker
-
-1. Build : `docker build . -t tuntematonsotilas/gbt:emojiweb`
