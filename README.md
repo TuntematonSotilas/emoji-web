@@ -2,14 +2,14 @@
 
 >A web application written with Emojicode
 
-## Install / check required tools
+## Install required tools
 
-Make sure you have basic tools installed:
-
-- A C++ compiler : `sudo dnf install gcc-c++`
-- libncurses5 : `sudo dnf install ncurses-devel`
-- [Emojicode](https://www.emojicode.org/docs/guides/install.html)
+TODO
 
 ## Build & Run 
 
     ./run.sh
+
+
+
+
